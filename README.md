@@ -2,18 +2,18 @@
 
 ## Description du projet
 
-Réalisation dans le cadre de ma formation d'intégrateur web chez OpenClassrooms.<br><br>
+Réalisation dans le cadre de ma formation d'intégrateur web chez [OpenClassrooms](https://openclassrooms.com/fr/).<br><br>
 Dans ce projet, j'ai développé la page d'accueil d'une agence de voyage en utilisant HTML et CSS.<br> 
 Mon objectif principal était d'intégrer une interface utilisateur responsive en suivant les maquettes fournies pour les versions mobile, tablette et desktop.<br> 
 En utilisant les fichiers de base fournis, j'ai complété le code HTML et CSS pour correspondre fidèlement aux designs.
 
-## Démo en ligne
+## Démo en ligne  
 
-Vous pouvez consulter le projet en ligne via GitHub Pages : [Booki sur GitHub Pages](https://martins-anthony.github.io/Booki/)
+[Booki sur GitHub Pages](https://martins-anthony.github.io/Booki/)
 
-## Maquette Figma
+## Maquette Figma 
 
-Vous pouvez consulter les maquettes utilisées pour ce projet via Figma : [Maquette Figma - Booki](https://www.figma.com/design/B3eLowtWREc9YXzBcGRAHn/Maquettes-Booki)
+[Maquette Booki sur Figma](https://www.figma.com/design/B3eLowtWREc9YXzBcGRAHn/Maquettes-Booki)
 
 ## Objectifs
 
