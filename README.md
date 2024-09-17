@@ -1,5 +1,9 @@
 # Booki - Page d'accueil d'une agence de voyage avec HTML & CSS
 
+## Aperçu du projet
+
+![Aperçu Showcase duo](images/screenshot.png)
+
 ## Description du projet
 
 Réalisation dans le cadre de ma formation d'intégrateur web chez [OpenClassrooms](https://openclassrooms.com/fr/).<br><br>
@@ -42,12 +46,13 @@ En utilisant les fichiers de base fournis, j'ai complété le code HTML et CSS p
 
 ## Outils utilisés
 
-- **[Visual Studio Code](https://code.visualstudio.com)** : Éditeur de code pour le développement.
-- **[Figma](https://www.figma.com/fr-fr/)** : Outil de design pour accéder aux maquettes du projet.
-- **[Google fonts](https://fonts.google.com/) et [Fonts awesome](https://fontawesome.com/)** : Pour les polices de caractères et les icônes.
-- **[Flexbox](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)** : Pour la mise en page responsive.
-- **[W3C validators](https://www.w3.org/)** : Pour valider le HTML et le CSS.
+- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+ : Éditeur de code pour le développement.
+- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com) : Outil de design pour accéder aux maquettes du projet.
+- **[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google-fonts&logoColor=white)](https://fonts.google.com/) et [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=flat&logo=font-awesome&logoColor=white)](https://fontawesome.com)** : Pour les polices de caractères et les icônes.
+- [![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) : Pour la mise en page responsive.
+- [![W3C Validators](https://img.shields.io/badge/W3C%20Validators-005A9C?style=flat&logo=w3c&logoColor=white)](https://validator.w3.org/) : Pour valider le HTML et le CSS.
 
 ## Auteur
 
-- **Martins Anthony** - [Portfolio](https://webcraft-anthony.com/) - [GitHub](https://github.com/Martins-Anthony)
+[![Portfolio](https://img.shields.io/badge/Portfolio-webcraft--anthony.com-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white)](http://webcraft-anthony.com)  [![GitHub](https://img.shields.io/badge/GitHub-Martins--Anthony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martins-Anthony)
